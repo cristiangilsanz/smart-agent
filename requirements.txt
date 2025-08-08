@@ -1,0 +1,31 @@
+# LLM frameworks & orchestration
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+langchain-google-genai
+langchain-groq
+langchain-huggingface
+langchain-tavily
+langgraph
+
+# Models & embeddings
+sentence-transformers
+huggingface_hub
+
+
+# Document processing & data sources
+pymupdf
+wikipedia
+arxiv
+
+# Web interfaces & API clients
+gradio
+requests
+
+# Vector storage & databases
+pgvector
+supabase
+
+# Utilities & environment management
+python-dotenv
