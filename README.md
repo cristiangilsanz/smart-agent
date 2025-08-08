@@ -8,6 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
 *An AI agent that stands for **S**tructured **M**emory & **A**nalysis with **R**easoning and **T**ools*.
+
 </div>
 
 # 📝 **Description**
@@ -31,10 +32,10 @@ Built specifically to tackle complex multi-step reasoning challenges like the **
 
 ```mermaid
 flowchart TB
-    A[User Question!]:::nodeStyle1 --> B[Retriever Node!]:::nodeStyle2
-    B --> E[Assistant Node!]:::nodeStyle3
+    A[User Question]:::nodeStyle1 --> B[Retriever Node]:::nodeStyle2
+    B --> E[Assistant Node]:::nodeStyle3
     E --> F{Need Tools?}:::decisionStyle
-    F -- Yes --> I[Tools!]:::nodeStyle5
+    F -- Yes --> I[Tools]:::nodeStyle5
     F -- No --> H[Direct Answer]:::nodeStyle4
     I --> E
     
@@ -192,11 +193,11 @@ Want to see it in action without the setup? Try the live demo on [*Hugging Face 
 
 <div align="center">
 
-**🔗 [Launch *SMART Agent* on Hugging Face Spaces](https://huggingface.co/spaces/cristiangilsanz/smartAgent)**
+**🔗 [Launch *SMART Agent*](https://huggingface.co/spaces/cristiangilsanz/smartAgent)**
 
 </div>
 
-You can query your own questions! Furthermore, the online version runs the full ***GAIA-Level-1 benchmark*** and shows real-time performance metrics.
+You can query your own questions! Furthermore, the online version runs the full ***GAIA-Level-1 benchmark*** and shows real-time performance metrics too.
 
 # 💡 **Tips for Best Results**
 
