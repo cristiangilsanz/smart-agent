@@ -51,7 +51,7 @@ flowchart TB
 # 📁 **Project Structure**
 
 ```
-smartAgent/
+smart-agent/
 ├── .env                                                # Environment Variables
 ├── .gitattributes                                      # Git Attributes Configuration
 ├── .gitignore                                          # Git Ignore Rules
@@ -102,8 +102,8 @@ smartAgent/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/cristiangilsanz/smartAgent.git
-   cd smartAgent
+   git clone https://github.com/cristiangilsanz/smart-agent.git
+   cd smart-agent
    ```
 
 2. **Install dependencies**
@@ -193,7 +193,7 @@ Want to see it in action without the setup? Try the live demo on [*Hugging Face 
 
 <div align="center">
 
-**🔗 [Launch *SMART Agent*](https://huggingface.co/spaces/cristiangilsanz/smartAgent)**
+**🔗 [Launch *SMART Agent*](https://huggingface.co/spaces/cristiangilsanz/smart-agent)**
 
 </div>
 
@@ -254,8 +254,8 @@ To get the most out of your interactions, ask clear and specific questions, and 
 This project implements concepts from several research areas:
 
 ```bibtex
-@article{SmartAgent2025,
-  title={SmartAgent: Modular AI Agent for Advanced Compositional Reasoning},
+@article{SMARTAgent2025,
+  title={SMARTAgent: Modular AI Agent for Advanced Compositional Reasoning},
   author={Cristian Gil Sanz},
   journal={AI Research},
   year={2025}
@@ -282,8 +282,8 @@ Special thanks to [*Hugging Face*](https://huggingface.co/) for the incredible [
 
 # 📞 **Get Help & Connect**
 
-- 💬 [Start a discussion](https://github.com/cristiangilsanz/smartAgent/discussions)
-- 🐛 [Open an issue](https://github.com/cristiangilsanz/smartAgent/issues)
+- 💬 [Start a discussion](https://github.com/cristiangilsanz/smart-agent/discussions)
+- 🐛 [Open an issue](https://github.com/cristiangilsanz/smart-agent/issues)
 
 - 📧 cristiangilsanz@gmail.com
 
